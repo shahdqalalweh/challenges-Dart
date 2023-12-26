@@ -1,8 +1,4 @@
 
-
-void main() {
- 
-}
 //challenge one, Stack
 void reverseList(List<dynamic> inputList) {
   List<dynamic> reversedList = [];
